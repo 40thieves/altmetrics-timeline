@@ -2,16 +2,36 @@
 {
 	"timeline":
 	{
-		"headline":"Sh*t People Say",
 		"type":"default",
-		"text":"People say stuff",
-		"startDate":"2012,1,26",
+
+		"headline":"Altmetrics timeline",
+		"text":"A visual guide to the development of altmetrics",
+
+		"startDate":"1972,11,3",
+
+
 		"date": [
 			{
-				"startDate":"2011,12,12",
-				"endDate":"2012,1,27",
-				"headline":"Vine",
-				"text":"<p>Vine Test</p>",
+				"startDate":"1972,11,3",
+				"endDate":"1972,11,3",
+
+				"headline":"Garfield publishes <em>'Citation Analysis as a Tool in Journal Evaluation'</em>",
+				"text":"<p>The impact factor, a method of citation counting was the first tool to measure scientific impact, was originally devised by Eugene Garfield.</p><p>The impact factor is of a given journal is calculated with the average number of citations received per paper published in that journal during the two preceding years.</p><blockquote>The term 'impact factor' has gradually evolved, especially in Europe, to describe both journal and author impact</blockquote>",
+
+				"asset":
+				{
+					"media":"",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1983,10,31",
+				"endDate":"1983,10,31",
+
+				"headline":"Garfield defends Impact Factor",
+				"text":"<p>Garfield publishes again, defending the impact factor, but arguing that it was never designed to measure impact of specific papers, authors or institutions.</p><blockquote>Although journal assessments are important, evaluation of faculty is a much more important exercise that affects individual careers. Impact numbers should not be used as surrogates except in unusual circumstances</blockquote>",
+
 				"asset":
 				{
 					"media":"",
