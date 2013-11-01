@@ -38,6 +38,20 @@
 					"credit":"",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"1992,7,1",
+				"endDate":"1992,7,1",
+
+				"headline":"Institute of Scientific Information aquired by Thomson Reuters",
+				"text":"<p>Thomson Reuters buys the Institute for Scientific Information, founded by Eugene Garfield in 1960, taking control of the impact factor.</p>",
+
+				"asset":
+				{
+					"media":"assets/img/thomson-reuters-logo.png",
+					"credit":"",
+					"caption":""
+				}
 			}
 		]
 	}
