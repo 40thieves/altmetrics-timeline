@@ -188,6 +188,20 @@
 					"credit":"",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"2012,1,1",
+				"endDate":"2012,1,1",
+
+				"headline":"Plum Analytics launches",
+				"text": "<p>Created by Andrea Michalek and Mike Buschman, who formerly worked on Summon, a highly-successful library discover service.</p><p>Plum Analytics is the latest competitor in the external altmetrics market.</p>",
+
+				"asset":
+				{
+					"media": "assets/img/plum-analytics-logo.png",
+					"credit":"",
+					"caption":""
+				}
 			}
 		],
 		"era": [
