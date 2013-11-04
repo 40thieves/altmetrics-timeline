@@ -79,6 +79,115 @@
 					"credit":"<cite><a href='http://googleblog.blogspot.co.uk/2004/10/scholarly-pursuits.html'>Official Google Blog</a></cite>",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"2006,6,6",
+				"endDate":"2006,6,6",
+
+				"headline":"<em>PLoS Medicine</em> Editors publish strong criticism of the impact factor",
+
+				"asset":
+				{
+					"media": "<blockquote>A journal's impact factor says nothing at all about how well read and discussed the journal is outside the core scientific community</blockquote><blockquote>It became clear that the process of determining a journal's impact factor is unscientific and arbitrary</blockquote>",
+					"credit":"<cite><a href='http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0030291'>The Impact Factor Game</a></cite>",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2007,12,17",
+				"endDate":"2007,12,17",
+
+				"headline":"<em>The Journal of Cell Biology</em> editorial critcising the impact factor",
+
+				"asset":
+				{
+					"media": "<blockquote>It is mathematically problematic &hellip; with around 80% of a journal impact factor attributable to around 20% of the papers</blockquote><blockquote>Citations to retracted articles are counted in the impact factor calculation</blockquote><blockquote>Just as scientists would not accept the findings in a scientific paper without seeing the primary data, so should they not rely on Thomson Scientific's impact factor, which is based on hidden data</blockquote>",
+					"credit":"<cite><a href='http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2140038/'>Show Me The Data</a></cite>",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2009,3,1",
+				"endDate":"2009,3,1",
+
+				"headline":"<em>PLoS</em> launches Article Level Metrics service",
+				"text": "The service collects and organises article level metric (ALM) data on articles in it's catalogue of articles.",
+
+				"asset":
+				{
+					"media": "assets/img/plos-alm.png",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2010,9,29",
+				"endDate":"2010,9,29",
+
+				"headline":"Jason Priem coins the term <em>altmetrics</em> in a tweet",
+
+				"asset":
+				{
+					"media": "https://twitter.com/jasonpriem/status/25844968813",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2010,10,26",
+				"endDate":"2010,10,26",
+
+				"headline":"Priem, Taraborelli, Groth & Neylon create the Altmetrics manifesto",
+				"text": "<p>Declaring the need for academic literature filters that use new forms of scholarly impact.</p><p>Declaring altmetrics faster and more diverse than traditional metrics, they envision a world where peer-review can be crowd-sourced.</p><p><a href='http://altmetrics.org/'>Altmetrics Manifesto</a></p>",
+
+				"asset":
+				{
+					"media": "assets/img/altmetrics-org.png",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2011,6,13",
+				"endDate":"2011,6,13",
+
+				"headline":"Total-Impact created at the Beyond Impact workshop",
+				"text": "<p>One of the first external tools to measure altmetrics, created by Jason Priem and Heather Piwowar.</p>",
+
+				"asset":
+				{
+					"media": "assets/img/total-impact.png",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2011,7,27",
+				"endDate":"2011,7,27",
+
+				"headline":"<em>PLoS</em> launches an Article Level Metrics API",
+				"text": "<p>The API allows programmatic access to the ALM data, without downloading the entire dataset.</p><p><a href='http://api.plos.org/'>PLoS ALM API</a></p>",
+
+				"asset":
+				{
+					"media": "assets/img/plos-alm-api.png",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2011,11,1",
+				"endDate":"2011,11,1",
+
+				"headline":"Altmetric.com wins Elsevier's 'Apps for Science' Challenge",
+				"text": "<p>Another tool for measuring altmetrics, developed through 2011 by Euan Adie.</p>",
+
+				"asset":
+				{
+					"media": "assets/img/apps-for-science.png",
+					"credit":"",
+					"caption":""
+				}
 			}
 		],
 		"era": [
