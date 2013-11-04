@@ -243,6 +243,20 @@
 					"credit":"",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"2014,12,1",
+				"endDate":"2014,12,31",
+
+				"headline":"Publication of UK Research Excellence Framework (REF)",
+				"text": "<p>The REF is the successor to the Research Assessment Exercise, to assess the quality of research of British universities.</p><p>Controversially, the REF will include more measurement of impact, particularly using the impact factor.</p>",
+
+				"asset":
+				{
+					"media": "<blockquote>[The impact factor's place as a key indicator of research progression] provides much of the rationale for the move to replace the UK’s Research Assessment Exercise (RAE) with a more metric-based successor</blockquote>",
+					"credit":"<cite><a href='http://dx.plos.org/10.1371/journal.pone.0005910'>Looking for Landmarks: The Role of Expert Review and Bibliometric Analysis in Evaluating Scientific Publication Outputs</a></cite>",
+					"caption":""
+				}
 			}
 		],
 		"era": [
