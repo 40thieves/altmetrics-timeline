@@ -202,6 +202,47 @@
 					"credit":"",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"2012,2,17",
+				"endDate":"2012,2,17",
+
+				"headline":"<em>PLoS</em> adds new data sources to their ALM data",
+				"text": "<p>Adds <ul><li>PubMed Central page views</li><li>PubMed Central PDF downloads</li><li>Mendeley data</li><li>Facebook data</li></p>",
+
+				"asset":
+				{
+					"media": "assets/img/plos-alm-new-data.png",
+					"credit":"<cite><a href='http://blogs.plos.org/plos/2012/02/new-data-sources-added-to-article-level-metrics/'>New data sources added to Article-Level Metrics</a></cite>",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2012,9,24",
+				"endDate":"2012,9,24",
+
+				"headline":"Total-impact relaunched as ImpactStory",
+
+				"asset":
+				{
+					"media": "assets/img/impactstory.png",
+					"credit":"<cite><a href='http://impactstory.org/'>ImpactStory.org</a></cite>",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2012,12,15",
+				"endDate":"2012,12,19",
+
+				"headline":"Declaration of Research Assessment signed",
+				"text": "<p>Scientists at the Annual Meeting of The American Society for Cell Biology (ASCB) sign the San Francisco Declaration of Research Assessment (DORA).</p><p>DORA is a petition to stop use of the impact factor as a to compare the scientific output of articles, individuals and institutions.</p>",
+
+				"asset":
+				{
+					"media": "",
+					"credit":"",
+					"caption":""
+				}
 			}
 		],
 		"era": [
