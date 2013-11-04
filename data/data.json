@@ -193,8 +193,13 @@
 		"era": [
 			{
 				"startDate": "1972,11,3",
-				"endDate": "1997,9,1",
+				"endDate": "1997,8,1",
 				"headline": "Early bibliometrics"
+			},
+			{
+				"startDate": "197,9,1",
+				"endDate": "2006,5,6",
+				"headline": "Webometrics"
 			}
 		]
 	}
