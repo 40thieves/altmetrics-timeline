@@ -71,12 +71,12 @@
 				"endDate":"2004,10,18",
 
 				"headline":"Google launches Google Scholar in beta",
-				"text": "<blockquote>[Google Scholar] rank[s] documents the way researchers do, weighing the full text of each document, where it was published, who it was written by, as well as how often and how recently it has been cited in other scholarly literature <cite><a href='http://googleblog.blogspot.co.uk/2004/10/scholarly-pursuits.html'>Official Google Blog</a></cite></blockquote>",
+				"text": "<img src='assets/img/google-scholar.png'>",
 
 				"asset":
 				{
-					"media":"assets/img/google-scholar.png",
-					"credit":"",
+					"media": "<blockquote>[Google Scholar] rank[s] documents the way researchers do, weighing the full text of each document, where it was published, who it was written by, as well as how often and how recently it has been cited in other scholarly literature</blockquote>",
+					"credit":"<cite><a href='http://googleblog.blogspot.co.uk/2004/10/scholarly-pursuits.html'>Official Google Blog</a></cite>",
 					"caption":""
 				}
 			}
