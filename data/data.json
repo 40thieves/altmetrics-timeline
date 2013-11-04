@@ -34,7 +34,7 @@
 
 				"asset":
 				{
-					"media":"Although journal assessments are important, evaluation of faculty is a much more important exercise that affects individual careers. Impact numbers should not be used as surrogates except in unusual circumstances",
+					"media":"<blockquote>Although journal assessments are important, evaluation of faculty is a much more important exercise that affects individual careers. Impact numbers should not be used as surrogates except in unusual circumstances</blockquote>",
 					"credit":"Eugene Garfield, <em>How to Use Citation Analysis for Faculty Evaluations, and When Is It Relevant?</em>",
 					"caption":""
 				}
@@ -44,7 +44,7 @@
 				"endDate":"1992,7,1",
 
 				"headline":"Institute of Scientific Information aquired by Thomson Reuters",
-				"text":"<p>Thomson Reuters buys the Institute for Scientific Information, founded by Eugene Garfield in 1960, taking control of the impact factor.</p>",
+				"text":"<p>Thomson Reuters buys the Institute for Scientific Information, founded by Eugene Garfield in 1960, taking control of the impact factor.</p><p>The impact factor is now published annually in the <em>Journal Citation Reports</em>, by the Heathcare & Science division of Thomson Reuters.</p>",
 
 				"asset":
 				{
@@ -52,6 +52,40 @@
 					"credit":"",
 					"caption":""
 				}
+			},
+			{
+				"startDate":"1997,9,1",
+				"endDate":"1997,9,1",
+
+				"headline":"Almind & Ingwersen first coin the term <em>webometrics</em>",
+
+				"asset":
+				{
+					"media":"<blockquote>The study of the quantitative aspects of the construction and use of information resources, structures and technologies on the Web drawing on bibliometric and informetric approaches</blockquote>",
+					"credit":"Almind & Ingwersen, <em>Informetric analyses on the world wide web: methodological approaches to webometrics</em>",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2004,10,18",
+				"endDate":"2004,10,18",
+
+				"headline":"Google launches Google Scholar in beta",
+				"text": "<blockquote>[Google Scholar] rank[s] documents the way researchers do, weighing the full text of each document, where it was published, who it was written by, as well as how often and how recently it has been cited in other scholarly literature <cite><a href='http://googleblog.blogspot.co.uk/2004/10/scholarly-pursuits.html'>Official Google Blog</a></cite></blockquote>",
+
+				"asset":
+				{
+					"media":"assets/img/google-scholar.png",
+					"credit":"",
+					"caption":""
+				}
+			}
+		],
+		"era": [
+			{
+				"startDate": "1972,11,3",
+				"endDate": "1997,9,1",
+				"headline": "Early bibliometrics"
 			}
 		]
 	}
