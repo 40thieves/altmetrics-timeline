@@ -10,5 +10,4 @@ Still a work in progress
 
 ### To-dos
 
-* Fix the theme
-	* Remove borders on imgs
+* Publish a live demo
